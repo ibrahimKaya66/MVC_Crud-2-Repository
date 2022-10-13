@@ -1,0 +1,30 @@
+﻿@model MVC_Crud.Data.Entities.Users
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        @using (Html.BeginForm("Update", "Login", FormMethod.Post))
+        {
+            <div class="form-group">
+                @Html.LabelFor(m => m.Username)
+                @Html.TextBoxFor(m => m.Username, new { @class = "form-control" })
+                @Html.LabelFor(m => m.Pass)
+                @Html.TextBoxFor(m => m.Pass, new { @class = "form-control" })
+
+            </div>
+            @Html.HiddenFor(m => m.Id)
+            <button type="submit" class="btn btn-success">Kaydet</button>
+        }
+    </div>
+</body>
+</html>

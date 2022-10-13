@@ -1,0 +1,22 @@
+﻿@model MVC_Crud.Models.Employee
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Update</h2>
+@using (Html.BeginForm("Update", "Employee", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+        @Html.LabelFor(m => m.Surname)
+        @Html.TextBoxFor(m => m.Surname, new { @class = "form-control" })
+        @Html.LabelFor(m => m.Wage)
+        @Html.TextBoxFor(m => m.Wage, new { @class = "form-control" })
+        @Html.LabelFor(m => m.Department_Id)
+        @Html.TextBoxFor(m => m.Department_Id, new { @class = "form-control" })
+    </div>
+    @Html.HiddenFor(m => m.Id)
+    <button type="submit" class="btn btn-success">Kaydet</button>
+}

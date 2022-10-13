@@ -1,0 +1,37 @@
+﻿@using MVC_Crud.Models
+@model List<Employee>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<a class="btn btn-primary" href="/Employee/Save">Ekle</a>
+<h2>Çalışanlar Listesi</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Adı</th>
+            <th>Soyadı</th>
+            <th>Maaşı</th>
+            <th>Departman Id</th>
+            <th>Güncelle</th>
+            <th>Sil</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+        <tr>
+            <td>@employee.Id</td>
+            <td>@employee.Name</td>
+            <td>@employee.Surname</td>
+            <td>@employee.Wage</td>
+            <td>@employee.Department_Id</td>
+            <td><a class="btn btn-primary" href="/Employee/Update/@employee.Id">Güncelle</a></td>
+            <td><a class="btn btn-primary" href="/Employee/Delete/@employee.Id">Sil</a></td>
+        </tr>
+        }
+    </tbody>
+</table>
+

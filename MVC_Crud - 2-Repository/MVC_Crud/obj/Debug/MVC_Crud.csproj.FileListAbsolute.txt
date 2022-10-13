@@ -1,0 +1,309 @@
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\MVC_Crud.dll.config
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\MVC_Crud.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\MVC_Crud.pdb
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\csc.exe
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\csc.exe.config
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\csc.rsp
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\csi.exe
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\csi.exe.config
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\csi.rsp
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.Managed.Core.targets
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.AppContext.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.Collections.Immutable.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.Console.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.Compression.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.FileSystem.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.Pipes.AccessControl.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.Pipes.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.AccessControl.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Claims.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.ValueTuple.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.Xml.XPath.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\vbc.exe
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\vbc.exe.config
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\vbc.rsp
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\VBCSCompiler.exe
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\roslyn\VBCSCompiler.exe.config
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\EntityFramework.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\EntityFramework.SqlServer.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\Microsoft.Web.Infrastructure.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\System.Web.Helpers.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\System.Web.Mvc.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\System.Web.Razor.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.Deployment.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.Razor.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\EntityFramework.xml
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\EntityFramework.SqlServer.xml
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\System.Web.Razor.xml
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.xml
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.Deployment.xml
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.Razor.xml
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\System.Web.Helpers.xml
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\System.Web.Mvc.xml
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.csproj.CoreCompileInputs.cache
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.csproj.CopyComplete
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.dll
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.pdb
+c:\users\konuk\source\repos\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.csprojAssemblyReference.cache
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.dll.config
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.pdb
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csc.exe
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csc.exe.config
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csc.rsp
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csi.exe
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csi.exe.config
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csi.rsp
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.AppContext.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Collections.Immutable.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Console.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.Compression.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.FileSystem.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.Pipes.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Reflection.Metadata.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.AccessControl.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Claims.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.ValueTuple.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Xml.XPath.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\vbc.exe
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\vbc.exe.config
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\vbc.rsp
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\VBCSCompiler.exe
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\VBCSCompiler.exe.config
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\EntityFramework.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\EntityFramework.SqlServer.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\Microsoft.Web.Infrastructure.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Helpers.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Mvc.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Razor.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.Deployment.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.Razor.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\EntityFramework.xml
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\EntityFramework.SqlServer.xml
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Razor.xml
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.xml
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.Deployment.xml
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.Razor.xml
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Helpers.xml
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Mvc.xml
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.csprojAssemblyReference.cache
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.csproj.CoreCompileInputs.cache
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.csproj.CopyComplete
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.pdb
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Business.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Data.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Business.pdb
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Business.dll.config
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Data.pdb
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Data.dll.config
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.dll.config
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.pdb
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csc.exe
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csc.exe.config
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csc.rsp
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csi.exe
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csi.exe.config
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csi.rsp
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.Managed.Core.targets
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.AppContext.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Collections.Immutable.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Console.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.Compression.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.FileSystem.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.Pipes.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Reflection.Metadata.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.AccessControl.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Claims.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Principal.Windows.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.ValueTuple.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Xml.XmlDocument.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Xml.XPath.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\vbc.exe
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\vbc.exe.config
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\vbc.rsp
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\VBCSCompiler.exe
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\VBCSCompiler.exe.config
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\EntityFramework.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\EntityFramework.SqlServer.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\Microsoft.Web.Infrastructure.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Business.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Data.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Helpers.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Mvc.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Razor.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.Deployment.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.Razor.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Business.pdb
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Business.dll.config
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Data.pdb
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Data.dll.config
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\EntityFramework.xml
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\EntityFramework.SqlServer.xml
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Razor.xml
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.xml
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.Deployment.xml
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.Razor.xml
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Helpers.xml
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Mvc.xml
+F:\SmartPro\MVC_Crud\MVC_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SmartPro\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.csprojAssemblyReference.cache
+F:\SmartPro\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.csproj.CoreCompileInputs.cache
+F:\SmartPro\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.csproj.CopyComplete
+F:\SmartPro\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.dll
+F:\SmartPro\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.pdb
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.dll.config
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.pdb
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csc.exe
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csc.exe.config
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csc.rsp
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csi.exe
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csi.exe.config
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\csi.rsp
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.Managed.Core.targets
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.AppContext.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Collections.Immutable.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Console.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.Compression.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.FileSystem.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.IO.Pipes.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Reflection.Metadata.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.AccessControl.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Claims.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Security.Principal.Windows.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.ValueTuple.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Xml.XmlDocument.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Xml.XPath.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\vbc.exe
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\vbc.exe.config
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\vbc.rsp
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\VBCSCompiler.exe
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\roslyn\VBCSCompiler.exe.config
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\EntityFramework.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\EntityFramework.SqlServer.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\Microsoft.Web.Infrastructure.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Business.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Data.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Helpers.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Mvc.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Razor.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.Deployment.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.Razor.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Business.pdb
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Business.dll.config
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Data.pdb
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\MVC_Crud.Data.dll.config
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\EntityFramework.xml
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\EntityFramework.SqlServer.xml
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Razor.xml
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.xml
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.Deployment.xml
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Webpages.Razor.xml
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Helpers.xml
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\System.Web.Mvc.xml
+G:\SmartPro\MVC_Crud\MVC_Crud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\SmartPro\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.csprojResolveAssemblyReference.cache
+G:\SmartPro\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.csproj.CoreCompileInputs.cache
+G:\SmartPro\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.dll
+G:\SmartPro\MVC_Crud\MVC_Crud\obj\Debug\MVC_Crud.pdb

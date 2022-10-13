@@ -1,0 +1,33 @@
+﻿@model MVC_Crud.Models.Employee
+@{
+    ViewBag.Title = "Save";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Kaydet</h2>
+@*<form method="post">
+        <div class="form-group">
+            <label>Çalışan Adı Adı</label>
+            <input type="text" name="Name" class="form-control" /><!--name adı Model>Entities>Çalışan ile aynı olmalı-->
+        </div>
+    <button type="submit" class="btn btn-success">Ekle</button>
+    </form>*@
+
+
+<!--Html Helper ile yapımı-->
+@using (Html.BeginForm("Save", "Employee", FormMethod.Post))
+{
+<div class="form-group">
+    @Html.LabelFor(m => m.Name)
+    @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+    @Html.LabelFor(m => m.Surname)
+    @Html.TextBoxFor(m => m.Surname, new { @class = "form-control" })
+    @Html.LabelFor(m => m.Wage)
+    @Html.TextBoxFor(m => m.Wage, new { @class = "form-control" })
+    @Html.LabelFor(m => m.Department_Id)
+    @Html.TextBoxFor(m => m.Department_Id, new { @class = "form-control" })
+</div>
+    @Html.HiddenFor(m => m.Id)
+    <button type="submit" class="btn btn-success">Kaydet</button>
+}
+

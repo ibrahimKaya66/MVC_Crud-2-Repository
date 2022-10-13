@@ -1,0 +1,44 @@
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Business.dll.config
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Business.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Business.pdb
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\EntityFramework.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\EntityFramework.SqlServer.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Data.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Data.pdb
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Data.dll.config
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\EntityFramework.xml
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\EntityFramework.SqlServer.xml
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud.Business\obj\Debug\MVC_Crud.Business.csprojAssemblyReference.cache
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud.Business\obj\Debug\MVC_Crud.Business.csproj.CoreCompileInputs.cache
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud.Business\obj\Debug\MVC_Crud.Business.csproj.CopyComplete
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud.Business\obj\Debug\MVC_Crud.Business.dll
+E:\Bu Disk\SmartPro\MVC_Crud\MVC_Crud.Business\obj\Debug\MVC_Crud.Business.pdb
+G:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Business.dll.config
+G:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Business.dll
+G:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Business.pdb
+G:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\EntityFramework.dll
+G:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\EntityFramework.SqlServer.dll
+G:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Data.dll
+G:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Data.pdb
+G:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Data.dll.config
+G:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\EntityFramework.xml
+G:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\EntityFramework.SqlServer.xml
+G:\SmartPro\MVC_Crud\MVC_Crud.Business\obj\Debug\MVC_Crud.Business.csprojResolveAssemblyReference.cache
+G:\SmartPro\MVC_Crud\MVC_Crud.Business\obj\Debug\MVC_Crud.Business.csproj.CoreCompileInputs.cache
+G:\SmartPro\MVC_Crud\MVC_Crud.Business\obj\Debug\MVC_Crud.Business.dll
+G:\SmartPro\MVC_Crud\MVC_Crud.Business\obj\Debug\MVC_Crud.Business.pdb
+F:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Business.dll.config
+F:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Business.dll
+F:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Business.pdb
+F:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\EntityFramework.dll
+F:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\EntityFramework.SqlServer.dll
+F:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Data.dll
+F:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Data.pdb
+F:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\MVC_Crud.Data.dll.config
+F:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\EntityFramework.xml
+F:\SmartPro\MVC_Crud\MVC_Crud.Business\bin\Debug\EntityFramework.SqlServer.xml
+F:\SmartPro\MVC_Crud\MVC_Crud.Business\obj\Debug\MVC_Crud.Business.csprojAssemblyReference.cache
+F:\SmartPro\MVC_Crud\MVC_Crud.Business\obj\Debug\MVC_Crud.Business.csproj.CoreCompileInputs.cache
+F:\SmartPro\MVC_Crud\MVC_Crud.Business\obj\Debug\MVC_Crud.Business.csproj.CopyComplete
+F:\SmartPro\MVC_Crud\MVC_Crud.Business\obj\Debug\MVC_Crud.Business.dll
+F:\SmartPro\MVC_Crud\MVC_Crud.Business\obj\Debug\MVC_Crud.Business.pdb
